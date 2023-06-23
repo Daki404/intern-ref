@@ -118,6 +118,7 @@ sv.plot_images_grid(
 
 import supervision as v
 
+
 sv.plot_images_grid(
     images=masks,
     grid_size=(1, 4),
